@@ -19,8 +19,10 @@
     <img src="https://img.shields.io/badge/Node.js-47C83E?style=flat-square&logo=Node.js&logoColor=#339933"/></a>&nbsp
     <img src="https://img.shields.io/badge/MySQL-B2CCFF?style=flat-square&logo=MySQL&logoColor=#4479A1"/></a>&nbsp
     </br>
-    <p align="center"> ✨ Instagram ✨ </p>
-    <a align="center" href="https://www.instagram.com/dmsw1st"><img src="https://img.shields.io/badge/Instagram-   E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/dmsw1st"/>       </a>&nbsp
+    <p align="center"> ✨ Instagram ✨ </br>
+    <a href="https://www.instagram.com/dmsw1st"><img src="https://img.shields.io/badge/Instagram-   E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/dmsw1st"/>       </a>&nbsp
+    </p>
+    
 
         
    
