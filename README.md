@@ -20,7 +20,9 @@
     <img src="https://img.shields.io/badge/MySQL-B2CCFF?style=flat-square&logo=MySQL&logoColor=#4479A1"/></a>&nbsp
     </br>
     <p align="center"> ✨ Instagram ✨ </p>
-    <a href="https://www.instagram.com/dmsw1st"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/dmsw1st"/></a>&nbsp
+    <p align="center"> 
+        <a href="https://www.instagram.com/dmsw1st"><img src="https://img.shields.io/badge/Instagram-   E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/dmsw1st"/>       </a>&nbsp
+    </p>
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=qkrdmswl)](https://github.com/anuraghazra/github-readme-stats)
 
