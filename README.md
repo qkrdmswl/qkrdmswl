@@ -6,7 +6,7 @@
 
 <p align="center">
     <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>&nbsp 
-    <img src="https://img.shields.io/badge/JAVA-FFFFFF?style=flat-square&logo=Java&logoColor=#007396"/></a>&nbsp 
+    <img src="https://img.shields.io/badge/JAVA-#FFE400?style=flat-square&logo=Java&logoColor=#007396"/></a>&nbsp 
     <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=JavaScript&logoColor=#F7DF1E"/></a>&nbsp
     <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=C&logoColor=#A8B9CC"/></a>&nbspc
     <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=R&logoColor=#276DC3"/></a>&nbspc
