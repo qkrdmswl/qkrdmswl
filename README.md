@@ -1,6 +1,13 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=FF9090&height=300&section=header&text=Eunji's%20Github&fontSize=90&fontColor=000000&&animation=twinkling)
 
-### Hi there 👋
+<h3 align="center">🔧 Tech Stack 🔨</h3>
+
+<p align="center"> Techs that I've used at least once </p>
+
+<p align="center">
+    ![](<img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>&nbsp)
+
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username={qkrdmswl}&show_icons=true&theme={theme})](https://github.com/{qkrdmswl}/github-readme-stats)
 
 <!--
 **qkrdmswl/qkrdmswl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
