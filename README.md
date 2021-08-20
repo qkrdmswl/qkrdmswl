@@ -1,6 +1,5 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=FF9090&height=300&section=header&text=Eunji's%20Github&fontSize=90&fontColor=000000&&animation=twinkling)
-<p align="center"> I'm Junior Developer 💻</p>
-
+<p align="center"> I'm Junior Developer 💻</p
 
 <h3 align="center">🔧 Tech Stack 🔨</h3>
 
@@ -15,8 +14,7 @@
     <img src="https://img.shields.io/badge/HTML5-FF4848?style=flat-square&logo=HTML5&logoColor=#E34F26"/></a>&nbsp
     <img src="https://img.shields.io/badge/CSS3-0054FF?style=flat-square&logo=CSS3&logoColor=#1572B6"/></a>&nbsp
     <img src="https://img.shields.io/badge/JavaScript-FFE400?style=flat-square&logo=JavaScript&logoColor=#000000"/></a>&nbsp
-    <img src="https://img.shields.io/badge/MySQL-B2CCFF?style=flat-square&logo=Swift&logoColor=#4479A1"/></a>&nbsp
-    <img src="https://img.shields.io/badge/MySQL-B2CCFF?style=flat-square&logo=SwiftUI&logoColor=#4479A1"/></a>&nbsp
+    <img src="https://img.shields.io/badge/Swift-FFFFFF?style=flat-square&logo=Swift&logoColor=#FA7343"/></a>&nbsp
     </br>
     <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=#000000"/></a>&nbsp
     <img src="https://img.shields.io/badge/Django-FF7012?style=flat-square&logo=Django&logoColor=#092E20"/></a>&nbsp
