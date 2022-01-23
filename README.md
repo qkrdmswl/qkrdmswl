@@ -1,5 +1,5 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=FF9090&height=300&section=header&text=Eunji's%20Github&fontSize=90&fontColor=000000&&animation=twinkling)
-<p align="center"> I'm Junior Developer 💻</p
+<p align="center"> I'm Junior Developer 💻</p>
 
 <h3 align="center">🔧 Tech Stack 🔨</h3>
 
