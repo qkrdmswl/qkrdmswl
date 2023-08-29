@@ -5,22 +5,49 @@
 
 <p align="center"> Techs that I've used at least once </p>
 
+<div align="center">
+    <p align="center"> 💛 Language 💛 </p>
+    <div align="center>
+        <img src="https://img.shields.io/badge/JAVA-EDD200?style=flat-square&logo=Java&logoColor=#000000"/></a>&nbsp 
+        <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>&nbsp 
+        <img src="https://img.shields.io/badge/JAVA-EDD200?style=flat-square&logo=Java&logoColor=#000000"/></a>&nbsp 
+        <img src="https://img.shields.io/badge/TypeScript-489CFF?style=flat-square&logo=TypeScript&logoColor=#3178C6"/></a>&nbsp
+        <img src="https://img.shields.io/badge/C-2478FF?style=flat-square&logo=C&logoColor=#A8B9CC"/></a>&nbsp
+        <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C++&logoColor=#A8B9CC"/></a>&nbsp
+        <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=R&logoColor=#276DC3"/></a>&nbsp
+        <img src="https://img.shields.io/badge/R-489CFF?style=flat-square&logo=R&logoColor=#276DC3"/></a>&nbsp
+    </div>
+</div>
 <p align="center">
-    <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>&nbsp 
-    <img src="https://img.shields.io/badge/JAVA-EDD200?style=flat-square&logo=Java&logoColor=#000000"/></a>&nbsp 
-    <img src="https://img.shields.io/badge/C-2478FF?style=flat-square&logo=C&logoColor=#A8B9CC"/></a>&nbsp
-    <img src="https://img.shields.io/badge/R-489CFF?style=flat-square&logo=R&logoColor=#276DC3"/></a>&nbsp
-    </br>
     <img src="https://img.shields.io/badge/HTML5-FF4848?style=flat-square&logo=HTML5&logoColor=#E34F26"/></a>&nbsp
     <img src="https://img.shields.io/badge/CSS3-0054FF?style=flat-square&logo=CSS3&logoColor=#1572B6"/></a>&nbsp
     <img src="https://img.shields.io/badge/JavaScript-FFE400?style=flat-square&logo=JavaScript&logoColor=#000000"/></a>&nbsp
     <img src="https://img.shields.io/badge/Swift-FFFFFF?style=flat-square&logo=Swift&logoColor=#FA7343"/></a>&nbsp
-    </br>
-    <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=#000000"/></a>&nbsp
-    <img src="https://img.shields.io/badge/Django-FF7012?style=flat-square&logo=Django&logoColor=#092E20"/></a>&nbsp
-    <img src="https://img.shields.io/badge/Node.js-47C83E?style=flat-square&logo=Node.js&logoColor=#339933"/></a>&nbsp
-    <img src="https://img.shields.io/badge/MySQL-B2CCFF?style=flat-square&logo=MySQL&logoColor=#4479A1"/></a>&nbsp
-    </br>
+</p>
+<div align="center">
+    <p align="center"> 💙 Framework 💙 </p>
+    <div align="center>
+        <img src="https://img.shields.io/badge/Spring-339933?style=flat-square&logo=Spring&logoColor=#6DB33F"/></a>&nbsp 
+        <img src="https://img.shields.io/badge/Spring-339933?style=flat-square&logo=Spring&logoColor=#6DB33F"/></a>&nbsp 
+        <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=#000000"/></a>&nbsp
+        <img src="https://img.shields.io/badge/Django-FF7012?style=flat-square&logo=Django&logoColor=#092E20"/></a>&nbsp
+        <img src="https://img.shields.io/badge/Node.js-47C83E?style=flat-square&logo=Node.js&logoColor=#339933"/></a>&nbsp
+        <img src="https://img.shields.io/badge/MySQL-B2CCFF?style=flat-square&logo=MySQL&logoColor=#4479A1"/></a>&nbsp
+    </div>
+</div>
+<p></p>
+<div align="center">
+    <p align="center"> ❤️ Infra ❤️ </p>
+    <div align="center>
+        <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=#6DB33F"/></a>&nbsp 
+        <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=#FFFFFF"/></a>&nbsp
+        <img src="https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=#092E20"/></a>&nbsp
+        <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=#339933"/></a>&nbsp
+        <img src="https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=#6DB33F"/></a>&nbsp 
+        <img src="https://img.shields.io/badge/MySQL-B2CCFF?style=flat-square&logo=MySQL&logoColor=#4479A1"/></a>&nbsp
+        <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=#6DB33F"/></a>&nbsp 
+    </div>
+</div>
     </br>
     </br>
     <p align="center"> ✨ Instagram ✨ </br></br>
@@ -28,6 +55,19 @@
     </p>
     </br></br></br>
     
+<h3 align="center">🏃🏻‍♂️ My works 🏃🏻‍♂️</h3>
+<div align="center">
+    <p align="center"> 📍 명지대학교 융합소프트웨어학부 학생회 (2021)</p>
+    <p align="center"> 📍 LikeLion MJU - 멋쟁이사자처럼 명지대 서울 (2021)</p>
+    <p align="center"> 📍 Build  - 명지대 교내 앱 개발 동아리 (2021)</p>
+    <p align="center"> 📍 UMC  - 서울/수도권 대학 연합 개발 동아리 (2022)</p>
+    <p align="center"> 📍 UXM LAB  - BlockChain 기반 음악 거래 플랫폼 논문 기고, Unity를 이용한 메타버스 화상 회의 플랫폼 개발 (2022)</p>
+    <p align="center"> 📍 DL LAB  - Graph Convolution Network를 활용한 약물 반응 예측</p>
+    <p align="center"> 📍 MiNER - RnD/Backend-developer & NLP Researcher (2023.01)</p>
+    <p align="center"> 📍 NanumVitamin.corp - CTO (2023.03-ing)</p>
+</div>
+<br>
+<br>
 
         
    
@@ -48,3 +88,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
